@@ -1,0 +1,48 @@
+body {
+    background-color: #fff8dc;
+    color: #800080;
+}
+
+header {
+    background-color: #fffacd;
+    border-bottom: 2px solid #d3d3d3;
+}
+
+.navbar-brand {
+    color: #800080;
+}
+
+.navbar-nav .nav-link {
+    color: #800080;
+}
+
+.alert {
+    background-color: #fffacd;
+    border-color: #800080;
+    color: #800080;
+}
+
+h1,
+h4 {
+    color: #800080;
+}
+
+p {
+    color: #800080;
+}
+
+.btn {
+    background-color: #fffacd;
+    color: #800080;
+    border: 2px solid #800080;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn:hover {
+    background-color: #800080;
+    color: #fffacd;
+}
+
+.footer {
+    color: #d3d3d3;
+}
